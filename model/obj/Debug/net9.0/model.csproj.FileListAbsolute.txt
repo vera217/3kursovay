@@ -1,0 +1,12 @@
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\bin\Debug\net9.0\model.deps.json
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\bin\Debug\net9.0\model.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\bin\Debug\net9.0\model.pdb
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.AssemblyInfo.cs
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\refint\model.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\model.pdb
+C:\Users\Vera\Desktop\Новая папка\Lombard\model\obj\Debug\net9.0\ref\model.dll

@@ -1,0 +1,15 @@
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\bin\Debug\net9.0\logic.deps.json
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\bin\Debug\net9.0\logic.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\bin\Debug\net9.0\logic.pdb
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\bin\Debug\net9.0\model.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\bin\Debug\net9.0\model.pdb
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.csproj.AssemblyReference.cache
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.AssemblyInfoInputs.cache
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.AssemblyInfo.cs
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.csproj.Up2Date
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\refint\logic.dll
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\logic.pdb
+C:\Users\Vera\Desktop\Новая папка\Lombard\logic\obj\Debug\net9.0\ref\logic.dll
